@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# About Me:
 I'm currently a prefinal year student at UIET Kurukshetra. I have keen interest in Full stack Development and love to develop user -friendly and responsive websites. 
 
 
