@@ -30,6 +30,7 @@ I'm currently a prefinal year student at UIET Kurukshetra. I have keen interest 
 
 
 ---
+# GitHub Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=Kirti391&icon=0&color=0)](https://visitcount.itsvg.in)
 
