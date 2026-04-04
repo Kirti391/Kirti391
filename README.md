@@ -26,7 +26,6 @@ I'm currently a prefinal year student at UIET Kurukshetra. I have keen interest 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kirti391&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391&theme=dark)](https://git.io/streak-stats)
 ![](https://nizrak-streak-stats.vercel.app/?user=Kirti391&theme=dark)<br/>
 
 
