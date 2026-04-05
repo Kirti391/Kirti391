@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Kirti</h2>
+<h2>Hi, I'm Kirti</h2>
 <h3>A passionate Full Stack Developer from India</h3>
 
 <!--
