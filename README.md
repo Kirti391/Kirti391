@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me:
-I'm currently a prefinal year student at UIET Kurukshetra. I have keen interest in Full stack Development and love to develop user -friendly and responsive websites. 
+🎓 Prefinal year student at UIET Kurukshetra  
+ 💻 Interested in Full Stack Development  
+🚀 Love building user-friendly and responsive websites  
 
 
 ## 🌐 Socials:
