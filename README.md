@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kirti391&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391&theme=dark)
-![](https://nizrak-streak-stats.vercel.app/?user=Kirti391&theme=radical)<br/>
+![](https://nizrak-streak-stats.vercel.app/?user=Kirti391&theme=dark)<br/>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirti391&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
