@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 
 # Profile Views:
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kirti391)
+## 👀 Profile Views
 
+![](https://komarev.com/ghpvc/?username=Kirti391&color=brightgreen)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kirti391.Kirti391)
 
 
 
