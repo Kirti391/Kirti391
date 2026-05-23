@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391&theme=radical)
 ![](https://nizrak-streak-stats.vercel.app/?user=Kirti391&theme=radical)<br/>
 
-# Profile Views:
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Kirti391)
-## 👀 Profile Views
+# 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Kirti391&color=brightgreen)
 
