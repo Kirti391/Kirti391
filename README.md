@@ -33,12 +33,6 @@ Here are some ideas to get you started:
 
 ![](https://nizrak-streak-stats.vercel.app/?user=Kirti391)<br/>
 
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Kirti391&color=brightgreen)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kirti391.Kirti391)
-
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirti391&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
