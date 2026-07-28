@@ -1,13 +1,5 @@
 <h2>Hi, I'm Kirti</h2>
 <h3>A passionate Full Stack Developer from India</h3>
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Kirti391/Kirti391main/dark.svg">
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Kirti391/Kirti391/main/light.svg">
-<img alt="YOUR NAME" src="https://raw.githubusercontent.com/Kirti391/Kirti391/main/
-light.svg">
-</picture>
 <!--
 **Kirti391/Kirti391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
