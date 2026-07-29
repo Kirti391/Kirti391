@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 # About Me:
 🎓 Prefinal year student at UIET Kurukshetra  
  💻 Interested in Full Stack Development  
