@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kirti391&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kirti391&theme=dark)](https://git.io/streak-stats)
 
 
 ![](https://nizrak-streak-stats.vercel.app/?user=Kirti391)<br/>
